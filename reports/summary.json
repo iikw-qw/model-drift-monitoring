@@ -1,0 +1,17 @@
+{
+  "weeks": 24,
+  "drift_injected_at_week": 10,
+  "baseline_auc": 0.6394,
+  "first_psi_alert_week": 17,
+  "first_auc_drop_alert_week": 19,
+  "last_week": {
+    "max_psi": 0.916,
+    "worst_feature": "income",
+    "auc": 0.5698
+  },
+  "weeks_by_status": {
+    "stable": 15,
+    "alert": 7,
+    "warning": 2
+  }
+}
